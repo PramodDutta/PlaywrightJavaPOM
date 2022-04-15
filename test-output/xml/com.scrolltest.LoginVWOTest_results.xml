@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaywrightJavaPOM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.343">
+    <properties></properties>
+
+
+
+            <testcase
+                name="loginTest"
+                time="4.343"
+                classname="com.scrolltest.LoginVWOTest">
+            </testcase>
+</testsuite>
