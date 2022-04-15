@@ -1,11 +1,10 @@
-package com.scrolltest;
+package com.scrolltest.tests;
 
-import com.scrolltest.base.BaseClass;
 import com.scrolltest.pages.LoginVWOPage;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class LoginVWOTest extends BaseClass {
+public class LoginVWOTest extends BaseTestClass {
     LoginVWOPage loginPage;
 
     @BeforeClass

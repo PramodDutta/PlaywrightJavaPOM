@@ -1,14 +1,10 @@
-package com.scrolltest.base;
+package com.scrolltest.tests;
 
 import com.microsoft.playwright.*;
 import com.microsoft.playwright.options.WaitUntilState;
 
-import java.nio.file.Paths;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
-
-public class BaseClass {
+public class BaseTestClass {
 
     Playwright playwright;
     BrowserType browserType;

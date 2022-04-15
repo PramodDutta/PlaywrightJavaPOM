@@ -12,6 +12,6 @@
             <testcase
                 name="loginTest"
                 time="4.343"
-                classname="com.scrolltest.LoginVWOTest">
+                classname="com.scrolltest.tests.LoginVWOTest">
             </testcase>
 </testsuite>
